@@ -1,0 +1,5 @@
+PRISMA_CLOUD_URL="https://api4.prismacloud.io"
+PRISMA_CLOUD_IDENTITY="00000000-0000-0000-0000-000000000000"
+PRISMA_CLOUD_SECRET="9VFXINaPm2SEhM5ZQsWSKrcLSZWhX+lk"
+TAG_SEARCH="@, owner, contact, prod, production, tier 1, tier1, critical, cmdb, asset id, cmdbid, cmdb id, id"
+PATH_IGNORE="/opt/twistlock/defender"
